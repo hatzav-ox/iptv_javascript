@@ -32,7 +32,7 @@
     "commander": "^8.3.0",
     "dayjs": "^1.10.7",
     "fs-extra": "^10.0.0",
-    "gh-pages": "^5.0.0",
+    "gh-pages": "^6.1.1",
     "iptv-checker": "^0.26.0",
     "iptv-playlist-parser": "^0.12.1",
     "jest": "^27.5.1",
